@@ -3223,7 +3223,7 @@
 	(via
 		(at 123.343562 62.209912)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -3313,7 +3313,7 @@
 	(via
 		(at 123.444 63.045)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -3443,7 +3443,7 @@
 	(via
 		(at 123.444 63.881)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -3565,7 +3565,7 @@
 	(via
 		(at 123.444 64.645)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -3687,7 +3687,7 @@
 	(via
 		(at 123.444 65.445)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4305,7 +4305,7 @@
 	(via
 		(at 123.317 70.993)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4419,7 +4419,7 @@
 	(via
 		(at 123.317 71.755)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4533,7 +4533,7 @@
 	(via
 		(at 123.439649 72.590214)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4631,7 +4631,7 @@
 	(via
 		(at 123.165 102.565)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4729,7 +4729,7 @@
 	(via
 		(at 122.78 103.44)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -4931,7 +4931,7 @@
 	(via
 		(at 125.44 104.31)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -5029,7 +5029,7 @@
 	(via
 		(at 125.12 103.44)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -5127,7 +5127,7 @@
 	(via
 		(at 124.82 102.51)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -5177,7 +5177,7 @@
 	(via
 		(at 124.333 72.471632)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -5307,7 +5307,7 @@
 	(via
 		(at 124.333 71.745869)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -5517,7 +5517,7 @@
 	(via
 		(at 124.333 70.993)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -6463,7 +6463,7 @@
 	(via
 		(at 124.206 65.455)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -6577,7 +6577,7 @@
 	(via
 		(at 124.206 64.643)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -6691,7 +6691,7 @@
 	(via
 		(at 124.191942 63.816608)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -6805,7 +6805,7 @@
 	(via
 		(at 124.188424 63.058154)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
@@ -6911,7 +6911,7 @@
 	(via
 		(at 124.079 62.357)
 		(size 0.5)
-		(drill 0.3)
+		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
 		(capping no)
 		(covering
